@@ -13,7 +13,7 @@ Apache RocketMQ 自诞生以来，因其架构简单、业务功能丰富、具�
 
 :::tip
 
-下表显示了RocketMQ、ActiveMQ和Kafka之间的比较 
+下表显示了Rocke
 
 :::
 
